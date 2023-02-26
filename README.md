@@ -10,7 +10,7 @@
 
 # Screenshots
 
-<table>
+<table align='center'>
   <tr>
     <td>Splash Screen</td>
      <td>Home Screen</td>
