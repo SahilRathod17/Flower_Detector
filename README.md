@@ -13,7 +13,6 @@
 <table>
   <tr>
     <td>Splash Screen</td>
-
      <td>Home Screen</td>
      <td>Example - 1</td>
     <td>Example - 2</td>
